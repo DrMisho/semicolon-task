@@ -94,13 +94,3 @@ Invalid titles return `422`. Missing or unauthorized tasks return `404`.
 | `GET`  | `/login`    | Login form         |
 | `POST` | `/login`    | Sign in            |
 | `POST` | `/logout`   | Sign out           |
-
-## Unfinished / out of scope
-
-Per the assessment brief, the following were intentionally not built:
-
-- Task deletion
-- Search / filtering
-- Automated tests
-- Deployment configuration
-- Marking a completed task as active again
